@@ -1,6 +1,5 @@
 def add_numbers(a, b, c):
-    print(f"The sum of these numbers is: {a + b + c}\nHalló Stærðfræði")
-    print("halló stærðfræði")
+    print(f"The sum of these numbers is: {a + b + c}\nHalló stærðfræði")
 
 first_number = int(input("Enter a number: "))
 second_number = int(input("Enter a number: "))
